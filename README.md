@@ -2,7 +2,7 @@
 To cluster reviews on google rating data, using a hierarchical clustering algorithm ...
 
 ### Abstract: 
-Understanding the tastes of each user and the characteristics of each 
+Understanding the tastes of each user and the characteristics of each
 product is necessary to predict how a user will respond to a new product. 
 This latent user and product dimensions can be discovered with the help of 
 user feedback. A numeric rating and its accompanying text review is the 
